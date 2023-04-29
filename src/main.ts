@@ -8,9 +8,9 @@ async function bootstrap() {
     {
       transport: Transport.REDIS,
       options: {
-        host: 'db-redis-blr1-95522-do-user-11648032-0.b.db.ondigitalocean.com',
+        host: 'some host name',
         port: 25061,
-        password: 'AVNS_4wCbQZV7k6pJVOZUKsB',
+        password: 'some password',
         username: 'default',
       },
     },
